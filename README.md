@@ -35,15 +35,20 @@ Add functionality to your script to return the stock with the "Greatest % increa
 
 Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once.
 
-note
+note:
 
 Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
 
 Resources for code:
 
 -comparison operating: https://learn.microsoft.com/en-us/dotnet/visual-basic/language-reference/operators/comparison-operators
+
 -number formatting: https://www.excelhowto.com/macros/formatting-a-range-of-cells-in-excel-vba/
+
 -conditional formatting: https://www.wallstreetmojo.com/vba-conditional-formatting/
+
 -Conditional Formatting using VBA Code - Change Cell Color basis on Condition https://youtu.be/F29G18GdTAQ
+
 -ColorIndex codes: https://www.automateexcel.com/excel-formatting/color-reference-for-color-index/
+
 -how to make a README file: https://www.makeareadme.com/
